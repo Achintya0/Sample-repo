@@ -4,7 +4,7 @@ metadata:
   name: redis-leader
   labels:
     app: redis
-    role: leader
+    role: mentor
       
       #trial 
 
